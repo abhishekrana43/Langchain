@@ -33,7 +33,7 @@ S-Pen support is unique and useful
 Review by Abhishek Rana
 """)
 
-#print(result)
-#print(result['sentiment'])
-#print(result['summary'])
+print(result)
+print(result['sentiment'])
+print(result['summary'])
 print(result['name'])
